@@ -1,0 +1,249 @@
+[
+    {
+      "state": "Estado de Connecticut",
+      "subastas": [
+        { "name": "Hartford Copart & IAAI", "price": "$275.00" },
+        { "name": "Hartford North-IAAI", "price": "$275.00" },
+        { "name": "Hartford South-IAAI-Middeltown", "price": "$275.00" },
+        { "name": "Hartford Springfield -Copart", "price": "$300.00" }
+      ]
+    },
+    {
+      "state": "Estado de New Jersey",
+      "subastas": [
+        { "name": "Avenel-IAAL", "price": "$170.00" },
+        { "name": "Bordentown Manheim NJ", "price": "$155.00" },
+        { "name": "Central NJ (Morganville)-(AAI", "price": "$170.00" },
+        { "name": "Southern NJ Sublot PA-IAAI", "price": "$175.00" },
+        { "name": "Glassboro East/West-Copart", "price": "$135.00" },
+        { "name": "Manville - Adesa", "price": "$275.00" },
+        { "name": "Somerville-Copart", "price": "$165.00" },
+        { "name": "Somerville South Amboy Copart-Sublot", "price": "$170.00" },
+        { "name": "Southern NJ (Turnersville)-IAAI", "price": "$130.00" },
+        { "name": "Englishtown-IAAJ (Manalapan)", "price": "$180.00" },
+        { "name": "Metro Skyline Manheim", "price": "$230.00" },
+        { "name": "Trenton - Copart", "price": "$160.00" },
+        { "name": "Sublote Trenton", "price": "$225.00" },
+        { "name": "Sublote Trenton Lancaster Copart", "price": "$200.00" },
+        { "name": "Sayreville - IAAI", "price": "$250.00" },
+        { "name": "Port Murray-IAAI", "price": "$275.00" }
+      ]
+    },
+    {
+      "state": "Estado de Ohio",
+      "subastas": [
+        { "name": "Akron-Canton - IAAI", "price": "$650.00" },
+        { "name": "Cincinnati (West Chester) -IAAI", "price": "$625.00" },
+        { "name": "Cincinnati South (Ameliaj - IAAI", "price": "$625.00" },
+        { "name": "Cleveland East-Copart", "price": "$650.00" },
+        { "name": "Cleveland West-Copart", "price": "$650.00" },
+        { "name": "Cleveland (Lorian) - IAAI", "price": "$650.00" },
+        { "name": "Cleveland-Adesa", "price": "$650.00" },
+        { "name": "Dayton - Copart & IAAI", "price": "$675.00" },
+        { "name": "Columbus (Grove City)-IAAI", "price": "$725.00" },
+        { "name": "Columbus - Copart", "price": "$725.00" }
+      ]
+    },
+    {
+      "state": "Estado de Maryland",
+      "subastas": [
+        { "name": "Baltimore - IAAI", "price": "$185.00" },
+        { "name": "Baltimore (Finksburg)-Copart", "price": "$180.00" },
+        { "name": "Baltimore East (Baltimore) - Copart", "price": "$240.00" },
+        { "name": "Baltimore Sublot (White Marsh, MD) - Copart", "price": "$240.00" },
+        { "name": "Baltimore/Washington - Manheim", "price": "$175.00" },
+        { "name": "Dundalk- AAJ", "price": "$195.00" },
+        { "name": "Dundalk Offsite 770-IAAI", "price": "$250.00" },
+        { "name": "Metro DC (Brandywine)", "price": "$180.00" },
+        { "name": "Metro DC-Subiote White Plains", "price": "$250.00" },
+        { "name": "Temple Hills Capital Auto", "price": "$175.00" },
+        { "name": "Washington DC Adesa", "price": "$330.00" },
+        { "name": "Washington DC Capital Auto Auction", "price": "$175.00" },
+        { "name": "Washington DC (Waldorf) Copart", "price": "$185.00" },
+        { "name": "Laurei IAAI", "price": "$160.00" },
+        { "name": "Elkton-IAAI", "price": "$160.00" }
+      ]
+    },
+    {
+      "state": "Estado de Vermont",
+      "subastas": [
+        { "name": "Burlington (Essex Junction)-IAAI", "price": "$725.00" }
+      ]
+    },
+    {
+      "state": "Estado de Virginia",
+      "subastas": [
+        { "name": "Culpeper-IAAI", "price": "$280.00" },
+        { "name": "Danville (Chatham) Copart", "price": "$450.00" },
+        { "name": "Northern Virginia (Fredericksburg)-IAAI", "price": "$270.00" },
+        { "name": "Fredericksburg-Copart", "price": "$300.00" },
+        { "name": "Fredericksburg South-IAAI", "price": "$340.00" },
+        { "name": "Fredericksburg Manheim", "price": "$255.00" },
+        { "name": "Hampton-Copart", "price": "$370.00" },
+        { "name": "Pulaski - (AAI", "price": "$500.00" },
+        { "name": "Richmond (Ashland) -IAAI", "price": "$275.00" },
+        { "name": "Richmond Doswell Sublot - IAAI", "price": "$320.00" },
+        { "name": "Richmond (Sandston) Copart", "price": "$250.00" },
+        { "name": "Richmond East (Charles City) Copart", "price": "$325.00" },
+        { "name": "Roanoke (Montvale) -IAAI", "price": "$500.00" },
+        { "name": "Suffolk-IAAI", "price": "$450.00" },
+        { "name": "Harrisonburg - Marnheim", "price": "$450.00" },
+        { "name": "Tidewater (Yorktown)-IAAI", "price": "$350.00" }
+      ]
+    },
+    {
+      "state": "Estado de Delaware",
+      "subastas": [
+        { "name": "New Castle IAAI", "price": "$85.00" },
+        { "name": "Seaford Copart.", "price": "$200.00" },
+        { "name": "Sublote Seafont Fruiland - Copart", "price": "$300.00" }
+      ]
+    },
+    {
+      "state": "Estado de Illinois",
+      "subastas": [
+        { "name": "Chicago Manheim", "price": "$610.00" },
+        { "name": "Chicago South - Copart & IAAI", "price": "$610.00" },
+        { "name": "Chicago North-Copart & IAAI", "price": "$610.00" },
+        { "name": "Chicago West (Aurora) - IAAI", "price": "$610.00" },
+        { "name": "Manheim Arena Illinois", "price": "$610.00" },
+        { "name": "Wheeling-Copart", "price": "$630.00" }
+      ]
+    },
+    {
+      "state": "Estado de Pennsylvania",
+      "subastas": [
+        { "name": "Altoona - Copart & IAAI", "price": "$330.00" },
+        { "name": "Bridgeport IAAL", "price": "$110.00" },
+        { "name": "Chambersburg Copart", "price": "$220.00" },
+        { "name": "Ene-IAAI", "price": "$500.00" },
+        { "name": "Hamsburg (Grantville) -Copart", "price": "$170.00" },
+        { "name": "Manheim (Grantville) & Manheim PA (Manheim)", "price": "$160.00" },
+        { "name": "Philadelphia (Pennsburg)- Copart", "price": "$150.00" },
+        { "name": "Philadelphia East-Sublot (Chalfont)-Copart", "price": "$150.00" },
+        { "name": "Philadelphia East-Sublot (Bridgeport) Copart", "price": "$145.00" },
+        { "name": "Philadelphia (Conshobocken) - JAAI", "price": "$115.00" },
+        { "name": "Philadelphia Capital Auto Auction", "price": "$115.00" },
+        { "name": "Philadelphia - Manheim (Hatfield, PA)", "price": "$130.00" },
+        { "name": "Philadelphia Sublot-IAAI (New Castle)", "price": "$185.00" },
+        { "name": "Pittsburgh (Aliquippa)-IAAI", "price": "$350.00" },
+        { "name": "Pittsburgh North (Gibsonia) - IAAI", "price": "$350.00" },
+        { "name": "Pittsburgh South (West Mifflin) - Copart", "price": "$350.00" },
+        { "name": "Pittsburgh East (Chalfont)- Copart", "price": "$350.00" },
+        { "name": "Pittsburgh North (Ellwood City) - Copart", "price": "$350.00" },
+        { "name": "Pittsburgh West (West Mifflin) - Copart", "price": "$350.00" },
+        { "name": "Pittsburgh Manheim (Cranberry Township, PA)", "price": "$350.00" },
+        { "name": "Pittsburgh (New Stanton)-Adesa", "price": "$350.00" },
+        { "name": "Scranton - Copart & IAAI", "price": "$190.00" },
+        { "name": "York-Adesa", "price": "$155.00" },
+        { "name": "York Haven - Copart", "price": "$160.00" },
+        { "name": "York Springs - IAAI", "price": "$175.00" }
+      ]
+    },
+    {
+      "state": "Estado de Maine",
+      "subastas": [
+        { "name": "Portland (Gorham) IAAI", "price": "$600.00" },
+        { "name": "Gray (Sublot de Lyman) Copart", "price": "$650.00" },
+        { "name": "Lyman-Copart", "price": "$570.00" },
+        { "name": "Scarborough (Sublot de Lyman) Copart", "price": "$625.00" },
+        { "name": "Orona (Sublot de Lyman)Copart", "price": "$750.00" },
+        { "name": "Windham Copart", "price": "$650.00" }
+      ]
+    },
+    {
+      "state": "Estado de Michigan",
+      "subastas": [
+        { "name": "lonia-Copart", "price": "$760.00" },
+        { "name": "Lansing Copart", "price": "$760.00" },
+        { "name": "Flint - Copart & IAAI", "price": "$760.00" },
+        { "name": "Detroit-Copart & IAAI", "price": "$850.00" },
+        { "name": "Grand Rapids - IAAI", "price": "$925.00" }
+      ]
+    },
+    {
+      "state": "Estado de New York",
+      "subastas": [
+        { "name": "Albany - Copart & IAAI", "price": "$300.00" },
+        { "name": "Albany (Clifton Park) Manheim", "price": "$320.00" },
+        { "name": "Albany (Yarda Rutland, VT)", "price": "$650.00" },
+        { "name": "Albany Sublote 5915 Amsterdan Copart", "price": "$400.00" },
+        { "name": "Buffalo - IAAI", "price": "$575.00" },
+        { "name": "Buffalo-Copart", "price": "$625.00" },
+        { "name": "Buffalo-Adesa", "price": "$550.00" },
+        { "name": "Buffalo Sublote Alden - Copart", "price": "$850.00" },
+        { "name": "Long Island - ADESA", "price": "$300.00" },
+        { "name": "Long Island - Copart", "price": "$280.00" },
+        { "name": "Long Island (Medford)-IAAI", "price": "$295.00" },
+        { "name": "Newburgh - Copart & IAAI", "price": "$255.00" },
+        { "name": "Newburgh - Sublot Copart (18 Route 17K Newburgh 12550)", "price": "$270.00" },
+        { "name": "Newburgh Sublot Copart (211 Johnson St. Staten Island)", "price": "$310.00" },
+        { "name": "Newburgh Manheim NY", "price": "$255.00" },
+        { "name": "Rochester Copart & IAAI", "price": "$410.00" },
+        { "name": "Rochester Sublot Brocton", "price": "$625.00" },
+        { "name": "Syracuse Cycero - Adesa", "price": "$360.00" },
+        { "name": "Syracuse Copart & IAAI", "price": "$360.00" }
+      ]
+    },
+    {
+      "state": "Estado de West Virginia",
+      "subastas": [
+        { "name": "Buckhannon IAAI", "price": "$575.00" },
+        { "name": "Charleston (Hurricane) -Copart", "price": "$575.00" },
+        { "name": "Shady Spring IAAL", "price": "$575.00" }
+      ]
+    },
+    {
+      "state": "Estado de Massachusetts",
+      "subastas": [
+        { "name": "Boston-Shirley-IAAI", "price": "$480.00" },
+        { "name": "Boston Adesa", "price": "Cotizar" },
+        { "name": "Shirley - Adesa", "price": "Cotizar" },
+        { "name": "Boston North Copart (North Bellenica)", "price": "$490.00" },
+        { "name": "Boston North-Sublote Hudson Copart", "price": "$480.00" },
+        { "name": "Boston South (Mendon) - Copart", "price": "$380.00" },
+        { "name": "Templeton", "price": "$525.00" },
+        { "name": "Freetown Copart", "price": "$380.00" },
+        { "name": "Taunton-IAAI", "price": "$375.00" },
+        { "name": "West Warren Copart", "price": "$450.00" },
+        { "name": "West Warren-Sublote Orleans, VT Copart", "price": "$775.00" },
+        { "name": "West Warren-Sublote Rutland Copart", "price": "$850.00" }
+      ]
+    },
+    {
+      "state": "Estado de Minnesota",
+      "subastas": [
+        { "name": "Minneapolis - Copart", "price": "$950.00" },
+        { "name": "Minneapolis North/Sublot Copart", "price": "$950.00" },
+        { "name": "St. Cloud - Copart", "price": "$950.00" },
+        { "name": "MinneapolisSt/. Paul-IAAI", "price": "$950.00" },
+        { "name": "Minneapolis South-IAAI", "price": "$950.00" }
+      ]
+    },
+    {
+      "state": "Estado de Wisconsin",
+      "subastas": [
+        { "name": "Appleton-IAAL", "price": "$795.00" },
+        { "name": "Madison - Copart", "price": "$775.00" },
+        { "name": "Milwaukee (Caledonia) Manheim", "price": "$775.00" },
+        { "name": "Milwaukee (Cudahy)-Copart", "price": "$775.00" },
+        { "name": "Milwaukee (Sussex) - IAAI", "price": "$775.00" },
+        { "name": "Portage-IAAI", "price": "$795.00" }
+      ]
+    },
+    {
+      "state": "Estado de New Hampshire",
+      "subastas": [
+        { "name": "Candia - Copart", "price": "$570.00" },
+        { "name": "Manchester (Salem)- AAI", "price": "$470.00" },
+        { "name": "Manchester Sublote -IAAI", "price": "$540.00" }
+      ]
+    },
+    {
+      "state": "Estado de Rhode Island",
+      "subastas": [
+        { "name": "Exeter-Copart", "price": "$395.00" },
+        { "name": "Providence-IAAI", "price": "$350.00" }
+      ]
+    }
+  ]

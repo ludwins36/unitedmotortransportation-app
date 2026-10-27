@@ -1,0 +1,20 @@
+[
+  { "id": "AT", "nombre": "Atlántida" },
+  { "id": "CH", "nombre": "Choluteca" },
+  { "id": "CL", "nombre": "Colón" },
+  { "id": "CM", "nombre": "Comayagua" },
+  { "id": "CP", "nombre": "Copán" },
+  { "id": "CR", "nombre": "Cortés" },
+  { "id": "EP", "nombre": "El Paraíso" },
+  { "id": "FM", "nombre": "Francisco Morazán" },
+  { "id": "GD", "nombre": "Gracias a Dios" },
+  { "id": "IN", "nombre": "Intibucá" },
+  { "id": "IB", "nombre": "Islas de la Bahía" },
+  { "id": "LP", "nombre": "La Paz" },
+  { "id": "LE", "nombre": "Lempira" },
+  { "id": "OC", "nombre": "Ocotepeque" },
+  { "id": "OL", "nombre": "Olancho" },
+  { "id": "SB", "nombre": "Santa Bárbara" },
+  { "id": "VA", "nombre": "Valle" },
+  { "id": "YO", "nombre": "Yoro" }
+]

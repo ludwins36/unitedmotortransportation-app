@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403832741839",
+    "project_id": "unitedmotortransportation",
+    "storage_bucket": "unitedmotortransportation.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403832741839:android:5260041db378ca6b923cba",
+        "android_client_info": {
+          "package_name": "com.honduespacios.unitedmotortransportation.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQLuud7EKRmdHtbIoCaHJRsiRBhSJQhDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

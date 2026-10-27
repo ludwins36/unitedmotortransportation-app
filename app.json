@@ -2,24 +2,35 @@
   "expo": {
     "name": "UnitedMotorTransportation",
     "slug": "UnitedMotorTransportation",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "unitedmotortransportation",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "icon": "./assets/images/Icono-United-Motors.png",
+      "bundleIdentifier": "com.honduespacios.unitedmotortransportation.ios",
+      "buildNumber": "13",
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false,
+        "UIBackgroundModes": ["remote-notification"]
+      }
     },
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
-        "foregroundImage": "./assets/images/android-icon-foreground.png",
-        "backgroundImage": "./assets/images/android-icon-background.png",
-        "monochromeImage": "./assets/images/android-icon-monochrome.png"
+        "foregroundImage": "./assets/images/Icono-United-Motors.png",
+        "backgroundImage": "./assets/images/Icono-United-Motors.png",
+        "monochromeImage": "./assets/images/Icono-United-Motors.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "versionCode": 2,
+      "package": "com.honduespacios.unitedmotortransportation.android",
+      "googleServicesFile": "./google-services.json"
     },
     "web": {
       "output": "static",
@@ -27,6 +38,13 @@
     },
     "plugins": [
       "expo-router",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "United Motor Transportation necesita acceso a tu galería para adjuntar fotos del vehículo y actualizar tu foto de perfil.",
+          "cameraPermission": "United Motor Transportation necesita la cámara para tomar fotos del vehículo y de tu perfil."
+        }
+      ],
       [
         "expo-splash-screen",
         {
@@ -38,11 +56,34 @@
             "backgroundColor": "#000000"
           }
         }
+      ],
+      "expo-secure-store",
+      "@react-native-firebase/app",
+      "@react-native-firebase/messaging",
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "compileSdkVersion": 35,
+            "targetSdkVersion": 35,
+            "buildToolsVersion": "35.0.0"
+          },
+          "ios": {
+            "useFrameworks": "static",
+            "forceStaticLinking": ["RNFBApp", "RNFBMessaging"]
+          }
+        }
       ]
     ],
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "8c2260ce-c399-4b71-93ec-b2c4e86baac2"
+      }
     }
   }
 }
